@@ -1,0 +1,15 @@
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/bin/Debug/net5.0/diceGame.deps.json
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/bin/Debug/net5.0/diceGame.runtimeconfig.json
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/bin/Debug/net5.0/diceGame.runtimeconfig.dev.json
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/bin/Debug/net5.0/diceGame.dll
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/bin/Debug/net5.0/ref/diceGame.dll
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/bin/Debug/net5.0/diceGame.pdb
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/obj/Debug/net5.0/diceGame.csproj.AssemblyReference.cache
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/obj/Debug/net5.0/diceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/obj/Debug/net5.0/diceGame.AssemblyInfoInputs.cache
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/obj/Debug/net5.0/diceGame.AssemblyInfo.cs
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/obj/Debug/net5.0/diceGame.csproj.CoreCompileInputs.cache
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/obj/Debug/net5.0/diceGame.dll
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/obj/Debug/net5.0/ref/diceGame.dll
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/obj/Debug/net5.0/diceGame.pdb
+/Users/chao/Documents/cSharpProjects/diceGame/diceGame/obj/Debug/net5.0/diceGame.genruntimeconfig.cache

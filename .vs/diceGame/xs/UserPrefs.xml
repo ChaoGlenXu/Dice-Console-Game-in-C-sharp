@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D7B9C203-3B3B-47F0-A8DA-69962D8D9B71}|Default">
+  <MonoDevelop.Ide.ItemProperties.diceGame FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="diceGame/Program.cs">
+    <Files>
+      <File FileName="diceGame/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
